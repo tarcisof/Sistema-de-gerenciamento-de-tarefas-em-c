@@ -27,7 +27,7 @@ int main() {
       atualizatarefa();
       break;
     case 5:
-      printf("Encerrando o programa. Adeus!\n");
+      printf("Adeus!\n");
       break;
     default:
       printf("Opção inválida. Tente novamente.\n");
